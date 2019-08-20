@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ai-cluster.ru</title>
+    <link>https://ai-cluster.github.io/</link>
+    <description>Recent content on ai-cluster.ru</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-RU</language>
+    <lastBuildDate>Thu, 15 Aug 2019 11:35:34 +0600</lastBuildDate>
+    
+	<atom:link href="https://ai-cluster.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Альтернативный, теоретико-модельный подход к решению задач</title>
+      <link>https://ai-cluster.github.io/blog/sviridenko-8-post/</link>
+      <pubDate>Thu, 15 Aug 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/sviridenko-8-post/</guid>
+      <description>Концепция семантического моделирования получила свое воплощение в целой серии теоретических и прикладных работ.</description>
+    </item>
+    
+    <item>
+      <title>Платформа ESDP</title>
+      <link>https://ai-cluster.github.io/blog/pres-19-post/</link>
+      <pubDate>Thu, 15 Aug 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-19-post/</guid>
+      <description>В Новосибирске была создана Платформа ESDP (Eyeline Semantic Definition Platform) - это платформа искусственного интеллекта AI 2.</description>
+    </item>
+    
+    <item>
+      <title>Проведение госзакупок и тендеров</title>
+      <link>https://ai-cluster.github.io/blog/pres-16-post/</link>
+      <pubDate>Thu, 15 Aug 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-16-post/</guid>
+      <description>Описание проекта Продукт будет представлять из себя рабочее место бизнес аналитика и/или специалиста организации, реализующее следующий функционал:</description>
+    </item>
+    
+    <item>
+      <title>СБАЛАНСИРОВАННАЯ СИСТЕМА ПОКАЗАТЕЛЕЙ (ССП/BSC)</title>
+      <link>https://ai-cluster.github.io/blog/pres-17-post/</link>
+      <pubDate>Thu, 15 Aug 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-17-post/</guid>
+      <description>Продукт основан на методике 20 ключей и разрабатывается совместно с SCC Group — одной из ведущих консалтинговых компаний Сибири и Дальнего Востока (www.</description>
+    </item>
+    
+    <item>
+      <title>Семантический подход к цифровизации бизнеса</title>
+      <link>https://ai-cluster.github.io/blog/sviridenko-10-post/</link>
+      <pubDate>Thu, 15 Aug 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/sviridenko-10-post/</guid>
+      <description>ИСХОДНЫЕ ПОЛОЖЕНИЯ:
+  Методологическую основу семантического моделирования составляет задачный подход, теоретической базой является математическая логика (теория нумераций, теория вычислимых моделей, формульная определимость вычислений, вычисление как проверка истинности на вычислимой модели),теория вероятностей и другие разделы математики.</description>
+    </item>
+    
+    <item>
+      <title>Теория Решения Изобретательских Задач</title>
+      <link>https://ai-cluster.github.io/blog/sviridenko-11-post/</link>
+      <pubDate>Thu, 15 Aug 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/sviridenko-11-post/</guid>
+      <description>ТРИЗ является, пожалуй, единственным достаточно целостным разделом знаний, полностью посвященному тому, как следует решать творческие задачи (в основном на примере технических запросов), используя огромный спектр различных эмпирических и эвристических приемов, в том числе и оригинальных, созданных в рамках этой теории.</description>
+    </item>
+    
+    <item>
+      <title>Теория Решения Инновационных Задач</title>
+      <link>https://ai-cluster.github.io/blog/sviridenko-9-post/</link>
+      <pubDate>Thu, 15 Aug 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/sviridenko-9-post/</guid>
+      <description>Данная статья посвящена попытке синтеза достоинств таких разных научных направлений как семантическое моделирование и ТРИЗ, интерпретируя последнюю как Теорию Решения Инновационных Задач.</description>
+    </item>
+    
+    <item>
+      <title>Цифровизация</title>
+      <link>https://ai-cluster.github.io/blog/pres-18-post/</link>
+      <pubDate>Thu, 15 Aug 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-18-post/</guid>
+      <description>Цифровая экономика, а именно возникновение новых возможностей, безусловно, позитивным образом отражается на жизни человека.</description>
+    </item>
+    
+    <item>
+      <title>РЕШЕНИЯ ЗАДАЧ ПРОГНОЗИРОВАНИЯ И УПРАВЛЕНИЯ</title>
+      <link>https://ai-cluster.github.io/blog/sviridenko-7-post/</link>
+      <pubDate>Tue, 13 Aug 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/sviridenko-7-post/</guid>
+      <description>ИСХОДНЫЕ ПОЛОЖЕНИЯ СЕМАНТИЧЕСКОГО МОДЕЛИРОВАНИЯ
+  Методологическую основу семантического моделирования составляет задачный подход, теоретической базой является математическая логика, теория вероятностей, дифференциальные уравнения, геометрическая теория управления и другие разделы математики.</description>
+    </item>
+    
+    <item>
+      <title>Элементы языка d0sl</title>
+      <link>https://ai-cluster.github.io/blog/pres-15-post/</link>
+      <pubDate>Tue, 13 Aug 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-15-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Области применения</title>
+      <link>https://ai-cluster.github.io/blog/sviridenko-5-post/</link>
+      <pubDate>Thu, 08 Aug 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/sviridenko-5-post/</guid>
+      <description>Напомним, что сама идея умных контрактов, как идея роботизации «деловых» отношений агентов/акторов (в роли которых могут выступать люди, оборудование, программы, бизнес-процессы и т.</description>
+    </item>
+    
+    <item>
+      <title>РОБОТОТЕХНИКА ДЛЯ НАЧИНАЮЩИХ</title>
+      <link>https://ai-cluster.github.io/blog/pres-14-post/</link>
+      <pubDate>Thu, 08 Aug 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-14-post/</guid>
+      <description>Проект предполагает внедрение в современную робототехнику семантической виртуальной машины www.</description>
+    </item>
+    
+    <item>
+      <title>Электронные кошельки</title>
+      <link>https://ai-cluster.github.io/blog/sviridenko-6-post/</link>
+      <pubDate>Thu, 08 Aug 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/sviridenko-6-post/</guid>
+      <description>В последнее время пользователи начинают предъявлять все более и более высокие требования к набору предоставляемых кошельком сервисов и «интеллекту» кошелька, что заставляет платежные системы и «финтеховкие» организации, борясь за клиентов, весьма активно работать в этом направлении.</description>
+    </item>
+    
+    <item>
+      <title>Eyeline Semantic Definition Platform (ESDP)</title>
+      <link>https://ai-cluster.github.io/blog/pres-12-post/</link>
+      <pubDate>Wed, 07 Aug 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-12-post/</guid>
+      <description>Создана платформа семантического моделирования – Eyeline Semantic Definition Platform (ESDP)</description>
+    </item>
+    
+    <item>
+      <title>ЛОВУШКИ И ОБЩИЕ РЕКОМЕНДАЦИИ</title>
+      <link>https://ai-cluster.github.io/blog/sviridenko-4-post/</link>
+      <pubDate>Wed, 07 Aug 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/sviridenko-4-post/</guid>
+      <description>ОБЩИЕ РЕКОМЕНДАЦИИ (В ОБЛАСТИ ТЕХНОЛОГИЙ):
+  Большие данные:  использовать только свои продукты на основе собственной научной базы; использовать и хранить БД только на территории РФ, по утверждѐнным в РФ регламентам</description>
+    </item>
+    
+    <item>
+      <title>ОПРЕДЕЛЕНИЕ И ПЕРЕЧЕНЬ СКВОЗНЫХ ЦИФРОВЫХ ТЕХНОЛОГИЙ</title>
+      <link>https://ai-cluster.github.io/blog/pres-13-post/</link>
+      <pubDate>Wed, 07 Aug 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-13-post/</guid>
+      <description>В рамках Национальной технологической инициативы (НТИ) сквозные технологии были определены как ключевые научно-технические направления, которые оказывают наиболее существенное влияние на развитие рынков.</description>
+    </item>
+    
+    <item>
+      <title>ОРГАНИЗАЦИЯ ГОСУДАРСТВЕННЫХ ЗАКУПОК</title>
+      <link>https://ai-cluster.github.io/blog/pres-11-post/</link>
+      <pubDate>Wed, 07 Aug 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-11-post/</guid>
+      <description>Проведение государственных закупок — технологический процесс, основанный на развивающихся законодательных нормах, регламентах делопроизводства, постановках закупочных задач и широком спектре аналитической деятельности, большую часть которой осуществляет человек.</description>
+    </item>
+    
+    <item>
+      <title>Программное обеспечение комплекса</title>
+      <link>https://ai-cluster.github.io/blog/pres-10-post/</link>
+      <pubDate>Wed, 07 Aug 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-10-post/</guid>
+      <description>Постановка задачи
+ Базовые станции сотовых операторов представляют собой контейнер, содержащий дополнительное оборудование объекта (УЗЛА) радиоподсистемы (базовой станции):</description>
+    </item>
+    
+    <item>
+      <title>о месте России в мировом тренде цифровизации</title>
+      <link>https://ai-cluster.github.io/blog/pres-9-post/</link>
+      <pubDate>Tue, 06 Aug 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-9-post/</guid>
+      <description>Мы являемся свидетелями того, как весь мир, а с ним и Россия постепенно втягивается в гонку так называемой цифровизации, представляющий собой несомненно реальный и объективный общемировой тренд, идущий на смену предыдущей информатизации общества.</description>
+    </item>
+    
+    <item>
+      <title>ОСНОВНЫЕ ЦЕЛИ ДЕЯТЕЛЬНОСТИ ММЦ</title>
+      <link>https://ai-cluster.github.io/blog/pres-8-post/</link>
+      <pubDate>Tue, 06 Aug 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-8-post/</guid>
+      <description>ИСХОДНЫЕ ПРЕДПОСЫЛКИ
+ Реализация Программы «Цифровая экономика» невозможна без использования экономикоматематического моделирования, ориентированного на создание целого комплекса взаимоувязанных экономико-математических моделей, пронизывающих всю реальную экономику с «верхних» ее этажей до самых «нижних».</description>
+    </item>
+    
+    <item>
+      <title>КОНЦЕПЦИЯ  ПРОЕКТА</title>
+      <link>https://ai-cluster.github.io/blog/sviridenko-3-post/</link>
+      <pubDate>Fri, 02 Aug 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/sviridenko-3-post/</guid>
+      <description>СУТЬ ПРОЕКТА «Медицинская термография»
+  создание и продвижение на рынок медицинских консультационных услуг инновационного интеллектуального программно-аппаратного комплекса функциональной диагностики на основе метода измерения теплового поля человека (медицинской термографии).</description>
+    </item>
+    
+    <item>
+      <title>Автоматизация запуска турбин</title>
+      <link>https://ai-cluster.github.io/project/project1/</link>
+      <pubDate>Thu, 01 Aug 2019 14:48:03 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/project/project1/</guid>
+      <description> Страница в разработке </description>
+    </item>
+    
+    <item>
+      <title>Обработка тендерных заявок</title>
+      <link>https://ai-cluster.github.io/project/project2/</link>
+      <pubDate>Thu, 01 Aug 2019 14:48:03 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/project/project2/</guid>
+      <description> Страница в разработке </description>
+    </item>
+    
+    <item>
+      <title>Поиск информации в открытых источниках</title>
+      <link>https://ai-cluster.github.io/project/project4/</link>
+      <pubDate>Thu, 01 Aug 2019 14:48:03 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/project/project4/</guid>
+      <description> Страница в разработке </description>
+    </item>
+    
+    <item>
+      <title>Цифровая железная дорога</title>
+      <link>https://ai-cluster.github.io/project/project3/</link>
+      <pubDate>Thu, 01 Aug 2019 14:48:03 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/project/project3/</guid>
+      <description> Страница в разработке </description>
+    </item>
+    
+    <item>
+      <title>НОВЫЙ ДИВНЫЙ МИР</title>
+      <link>https://ai-cluster.github.io/blog/pres-6-post/</link>
+      <pubDate>Wed, 31 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-6-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>СТРУКТУРА СОВРЕМЕННОГО ТРИЗ</title>
+      <link>https://ai-cluster.github.io/blog/sviridenko-2-post/</link>
+      <pubDate>Wed, 31 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/sviridenko-2-post/</guid>
+      <description>Исходные предпосылки
+  ОСНОВНОЙ ВИД ЛЮБОЙ ИНТЕЛЛЕКТУАЛЬНОЙ ДЕЯТЕЛЬНОСТИ – РЕШЕНИЕ ЗАДАЧ.</description>
+    </item>
+    
+    <item>
+      <title>для автоматизации принятия решений</title>
+      <link>https://ai-cluster.github.io/blog/pres-4-post/</link>
+      <pubDate>Wed, 31 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-4-post/</guid>
+      <description>В основе лежит математическая теория «Семантического моделирования». Замена ручного труда станками в XVIII веке привела к промышленной революции.</description>
+    </item>
+    
+    <item>
+      <title>на основе семантических правил</title>
+      <link>https://ai-cluster.github.io/blog/pres-5-post/</link>
+      <pubDate>Wed, 31 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-5-post/</guid>
+      <description>Предлагается разработать и внедрить в Авиакомпании систему управления предложениями (offer management) на основе семантических правил и Eyeline Semantic Definition Platform (ESDP).</description>
+    </item>
+    
+    <item>
+      <title>тезисы</title>
+      <link>https://ai-cluster.github.io/blog/pres-7-post/</link>
+      <pubDate>Wed, 31 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-7-post/</guid>
+      <description>Глобальная цифровизация российской экономики потребует, прежде всего, ее обеспечения методологической поддержкой, ориентированной на процессы постановки и решения задач.</description>
+    </item>
+    
+    <item>
+      <title>Какую проблему мы решаем</title>
+      <link>https://ai-cluster.github.io/posts/our_approach/</link>
+      <pubDate>Wed, 31 Jul 2019 11:07:10 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/posts/our_approach/</guid>
+      <description>Венчурные инвестиции в наукоемкие проекты и компании (deep tech) остаются одними из наиболее популярных инструментов на Американском и Европейском рынках.</description>
+    </item>
+    
+    <item>
+      <title>Fully-featured dialog system and domain-specific virtual assistant solutions for exceptional business efficiency</title>
+      <link>https://ai-cluster.github.io/blog/pres-3-post/</link>
+      <pubDate>Tue, 30 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-3-post/</guid>
+      <description> Dialog system &amp;amp; agents. What is it?
+ </description>
+    </item>
+    
+    <item>
+      <title>Комплексная Программа по подготовке российских/СНГ специалистов</title>
+      <link>https://ai-cluster.github.io/blog/sviridenko-1-post/</link>
+      <pubDate>Tue, 30 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/sviridenko-1-post/</guid>
+      <description>Комплексная Программа по подготовке российских/СНГ специалистов в области ТРИЗ и сопутствующих дисциплин имеет четыре уровня сложности.</description>
+    </item>
+    
+    <item>
+      <title>ЛАБОРАТОРИЯ РОБОТОТЕХНИКИ СБЕРБАНКА</title>
+      <link>https://ai-cluster.github.io/blog/pres-1-post/</link>
+      <pubDate>Tue, 30 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-1-post/</guid>
+      <description>Обзор подготовлен Лабораторией робототехники Сбербанка и призван кратко познакомить широкий круг читателей с текущим состоянием робототехники в России и мире.</description>
+    </item>
+    
+    <item>
+      <title>НА БАЗЕ ПЛАТФОРМЫ EYELINE SEMANTIC DEFINITION PLATFORM</title>
+      <link>https://ai-cluster.github.io/blog/expasoft-9-post/</link>
+      <pubDate>Tue, 30 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/expasoft-9-post/</guid>
+      <description>ТЕХНОЛОГИЧЕСКИЕ ВОЗМОЖНОСТИ ПРОГРАММНОГО КОМПЛЕКСА «АВТОМАТИЗАЦИЯ АНАЛИЗА ГЕОЛОГИЧЕСКИХ ДАННЫХ»
+  Методологическую основу процесса проектирования и последующей эксплуатации Программного комплекса «Автоматизация анализа геологических данных» составляет концепция семантического моделирования.</description>
+    </item>
+    
+    <item>
+      <title>Полнофункциональная диалоговая платформа и индустриальные виртуальные ассистенты на базе искусственного интеллекта</title>
+      <link>https://ai-cluster.github.io/blog/pres-2-post/</link>
+      <pubDate>Tue, 30 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-2-post/</guid>
+      <description>На базе платформы можно создавать как простых чатботов с кнопками и скриптами, так и высокоинтеллектуальных виртуальных ассистентов с гибкими настройками памяти, способностью вести многошаговые диалоги, дообучаться, а также маршрутизировать диалоги на реальных операторов и подсказывать им в режиме реального времени.</description>
+    </item>
+    
+    <item>
+      <title>Цифровизация в энергетике</title>
+      <link>https://ai-cluster.github.io/blog/expasoft-10-post/</link>
+      <pubDate>Tue, 30 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/expasoft-10-post/</guid>
+      <description>Именно цифровизация позволяет создавать распределенные энергосистемы в масштабе от нескольких станций до единой сети с тысячью возобновляемых источников энергии.</description>
+    </item>
+    
+    <item>
+      <title>Методичка для разработчиков</title>
+      <link>https://ai-cluster.github.io/blog/expasoft-6-post/</link>
+      <pubDate>Mon, 29 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/expasoft-6-post/</guid>
+      <description>Около 10 лет тому назад Группа компаний Eyeline создала, развивает и успешно эксплуатирует платформу ESDP, первоначально предназначенную для применения в телекоммуникационной отрасли.</description>
+    </item>
+    
+    <item>
+      <title>Обучаем машины для службы людям</title>
+      <link>https://ai-cluster.github.io/blog/expasoft-4-post/</link>
+      <pubDate>Mon, 29 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/expasoft-4-post/</guid>
+      <description>Промышленная технология ускорения нейронных сетей
+  Нейронные сети на мощных серверах обрабатывают огромные массивы данных Оптимизация архитектуры Нейронной сети выполняется по отработанной технологии Встраиваемая нейронная сеть работает на стандартном чипе устройства</description>
+    </item>
+    
+    <item>
+      <title>ПЕРИФЕРИЙНЫЕ ВЫЧИСЛЕНИЯ И СЕМАНТИЧЕСКИЕ ТЕХНОЛОГИИ</title>
+      <link>https://ai-cluster.github.io/blog/expasoft-8-post/</link>
+      <pubDate>Mon, 29 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/expasoft-8-post/</guid>
+      <description>ГРУППА EYELINE.MOBI
+  Компания занимается IT инновациями и мобильными технологиями с 2001 года R&amp;amp;D центр расположен в новосибирском Академгородке Более 30 патентов в России, США, Европе и Китае Основные проекты реализованы в СНГ, Юго-Восточной Азии и Африке Клиенты МТС, Теле2, Билайн, Panasonic, ATOS, Сбербанк, Альфа-Банк, YellowPages, Правительство г.</description>
+    </item>
+    
+    <item>
+      <title>Парадигма семантического моделирования</title>
+      <link>https://ai-cluster.github.io/blog/expasoft-7-post/</link>
+      <pubDate>Mon, 29 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/expasoft-7-post/</guid>
+      <description>В чем преимущество семантического моделирования?
+ Семантическое моделирование – это новый подход в разработке, управлении и сопровождении сложных автономных систем (САС), который позволяет значительно снизить стоимость владения такой системой.</description>
+    </item>
+    
+    <item>
+      <title>Электротранспорт – приоритет городов</title>
+      <link>https://ai-cluster.github.io/blog/expasoft-5-post/</link>
+      <pubDate>Mon, 29 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/expasoft-5-post/</guid>
+      <description>Позитивные тенденции объясняются увеличением электромобилей на рынке
+ Самый высокий рост – около 30%, в США, за ним следуют Азиатско-Тихоокеанский регион и Европа.</description>
+    </item>
+    
+    <item>
+      <title>Advances in Relational and Hybrid Methods</title>
+      <link>https://ai-cluster.github.io/blog/vityaev-1-post/</link>
+      <pubDate>Thu, 25 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/vityaev-1-post/</guid>
+      <description>The information revolution is generating mountains of data, from sources as diverse as astronomy observations, credit card transactions, genetics research, telephone calls, and web clickstreams.</description>
+    </item>
+    
+    <item>
+      <title>Безопасная и умная навигация по сосудам сердца</title>
+      <link>https://ai-cluster.github.io/blog/expasoft-1-post/</link>
+      <pubDate>Thu, 25 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/expasoft-1-post/</guid>
+      <description>Что такое ANGIONICA?
+ Программно-аппаратный комплекс, позволяющий интервенционному хирургу проводить операции в коронарных сосудах без использования рентгентомографии</description>
+    </item>
+    
+    <item>
+      <title>ОБЛАСТИ ПРИМЕНЕНИЯ И СЕМАНТИЧЕСКИЕ DSL</title>
+      <link>https://ai-cluster.github.io/blog/expasoft-3-post/</link>
+      <pubDate>Thu, 25 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/expasoft-3-post/</guid>
+      <description>Платформа Eyeline Semantic Definition Platform (ESDP) базируется на языке семантических спецификаций Delta0 Semantic Language (см http://d0sl.</description>
+    </item>
+    
+    <item>
+      <title>ПОМОЩЬ ПОКУПАТЕЛЮ СДЕЛАТЬ ВЫБОР И СОВЕРШИТЬ ПОКУПКУ</title>
+      <link>https://ai-cluster.github.io/blog/expasoft-2-post/</link>
+      <pubDate>Thu, 25 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/expasoft-2-post/</guid>
+      <description>МЫ ПОВЫШАЕМ ПРОДАЖИ, РЕКОМЕНДУЯ ПОНЯТНЫЕ ВАРИАНТЫ НА ОСНОВЕ ИЗУЧЕНИЯ ПЕРСОНАЛЬНЫХ ВКУСОВ, ЧТОБЫ ПОМОЧЬ КЛИЕНТАМ ВЫБРАТЬ ПОДХОДЯЩИЙ ТОВАР ИЗ ПОХОЖИХ.</description>
+    </item>
+    
+    <item>
+      <title>Семантико-вероятностный подход к анализу данных</title>
+      <link>https://ai-cluster.github.io/blog/vityaev-2-post/</link>
+      <pubDate>Thu, 25 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/vityaev-2-post/</guid>
+      <description>Несмотря на высокую эффективность методов глубокого обучения (Deep Learning) они остаются «вещью в себе», «черным ящиком» решениям которого невозможно доверять.</description>
+    </item>
+    
+    <item>
+      <title> Семантический подход к нечеткой логике</title>
+      <link>https://ai-cluster.github.io/blog/palchunov-5-post/</link>
+      <pubDate>Wed, 24 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/palchunov-5-post/</guid>
+      <description>В работе исследуется проблема пополнения частичной информации о нечетких значениях истинности формул первого порядка на алгебраической системе.</description>
+    </item>
+    
+    <item>
+      <title>Methods for identifying payment plans and services by mobile operators</title>
+      <link>https://ai-cluster.github.io/blog/palchunov-4-post/</link>
+      <pubDate>Wed, 24 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/palchunov-4-post/</guid>
+      <description>The paper is devoted to methods for identifying payment plans and services by mobile operators which are the best for the given subscribers.</description>
+    </item>
+    
+    <item>
+      <title>Для построения онтологических моделей</title>
+      <link>https://ai-cluster.github.io/blog/palchunov-7-post/</link>
+      <pubDate>Wed, 24 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/palchunov-7-post/</guid>
+      <description>Правила соответствия между уровнями представления понятий Поиск оптимальных тарифов и услуг мобильной связи</description>
+    </item>
+    
+    <item>
+      <title>ИЗВЛЕЧЁННЫХ ИЗ МЕДИЦИНСКИХ ДОКУМЕНТОВ</title>
+      <link>https://ai-cluster.github.io/blog/palchunov-8-post/</link>
+      <pubDate>Wed, 24 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/palchunov-8-post/</guid>
+      <description>Статья посвящена методам представления знаний, интеграции знаний, извлечённых из разных источников, и порождения новых знаний.</description>
+    </item>
+    
+    <item>
+      <title>Современные подходы к оценке рисков неблагоприятных событий</title>
+      <link>https://ai-cluster.github.io/blog/palchunov-6-post/</link>
+      <pubDate>Wed, 24 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/palchunov-6-post/</guid>
+      <description>В настоящей статье рассмотрены современные подходы к оценке рисков неблагоприятных событий, необходимость в которых возникает при обеспечении информационной безопасности корпоративной информационной системы.</description>
+    </item>
+    
+    <item>
+      <title>Управление рисками</title>
+      <link>https://ai-cluster.github.io/blog/palchunov-2-post/</link>
+      <pubDate>Wed, 24 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/palchunov-2-post/</guid>
+      <description>Статья посвящена методам разработки онтологий и онтологических моделей предметных областей в медицине.</description>
+    </item>
+    
+    <item>
+      <title>Формализация предметной области на основе теоретико-модельного подхода</title>
+      <link>https://ai-cluster.github.io/blog/palchunov-3-post/</link>
+      <pubDate>Wed, 24 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/palchunov-3-post/</guid>
+      <description>Статья посвящена разработке методов порождения знаний о том, какие виды тарифов и услуг мобильного оператора могут быть полезными для данного абонента мобильной сети.</description>
+    </item>
+    
+    <item>
+      <title>Страница в разработке</title>
+      <link>https://ai-cluster.github.io/posts/elaboration/</link>
+      <pubDate>Wed, 24 Jul 2019 11:07:10 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/posts/elaboration/</guid>
+      <description>Но из преимуществ deep tech проистекают и сложности для инвесторов и производства Инвесторы.</description>
+    </item>
+    
+    <item>
+      <title>Концепция</title>
+      <link>https://ai-cluster.github.io/blog/palchunov-1-post/</link>
+      <pubDate>Tue, 23 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/palchunov-1-post/</guid>
+      <description>Традиционный подход к разработке ПО основанный на применении алгоритмических языков программирования состоит из следующих основных этапов:</description>
+    </item>
+    
+    <item>
+      <title>Семантические предметно-ориентированные языки</title>
+      <link>https://ai-cluster.github.io/article/article1/</link>
+      <pubDate>Mon, 22 Jul 2019 14:48:03 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/article/article1/</guid>
+      <description>Apollo For Baximco Inc. Australia Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Alisha Mayar</title>
+      <link>https://ai-cluster.github.io/team/alisha-mayar/</link>
+      <pubDate>Sat, 29 Sep 2018 14:43:10 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/team/alisha-mayar/</guid>
+      <description>Work History &amp;amp; Feedback Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Joseph Pullin</title>
+      <link>https://ai-cluster.github.io/team/joseph-pullin/</link>
+      <pubDate>Sat, 29 Sep 2018 14:42:51 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/team/joseph-pullin/</guid>
+      <description>Work History &amp;amp; Feedback Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Andrew Givson</title>
+      <link>https://ai-cluster.github.io/team/andrew-givson/</link>
+      <pubDate>Sat, 29 Sep 2018 14:42:31 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/team/andrew-givson/</guid>
+      <description>Work History &amp;amp; Feedback Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Steve Woah</title>
+      <link>https://ai-cluster.github.io/team/steve-woah/</link>
+      <pubDate>Sat, 29 Sep 2018 14:42:07 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/team/steve-woah/</guid>
+      <description>Work History &amp;amp; Feedback Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Alex Cagar</title>
+      <link>https://ai-cluster.github.io/team/alex-cagar/</link>
+      <pubDate>Sat, 29 Sep 2018 14:41:38 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/team/alex-cagar/</guid>
+      <description>Work History &amp;amp; Feedback Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Phillip Wilson</title>
+      <link>https://ai-cluster.github.io/team/phillip-wilson/</link>
+      <pubDate>Sat, 29 Sep 2018 12:58:30 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/team/phillip-wilson/</guid>
+      <description>Work History &amp;amp; Feedback Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>ФИНТЕХ, ТЕЛЕКОМ</title>
+      <link>https://ai-cluster.github.io/service/market-strategy/</link>
+      <pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/service/market-strategy/</guid>
+      <description>Управление платежами, управление услугами, обработка фрода, маршрутизация, рекомендации, биржевой прогноз.</description>
+    </item>
+    
+    <item>
+      <title>ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ</title>
+      <link>https://ai-cluster.github.io/service/valuable-idea/</link>
+      <pubDate>Sat, 29 Sep 2018 11:51:17 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/service/valuable-idea/</guid>
+      <description>Робототехника, аниматы, роевые задачи, автоматическая обработка текстов, умные контракты, рекомендательные системы, интернет вещей.</description>
+    </item>
+    
+    <item>
+      <title>МЕДИЦИНА</title>
+      <link>https://ai-cluster.github.io/service/market-strategy1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ai-cluster.github.io/service/market-strategy1/</guid>
+      <description>Экспертные системы диагностики заболеваний, помощник врача (second opinion USA), дистанционная диагностика.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digitalization on ai-cluster.ru</title>
+    <link>https://ai-cluster.github.io/tags/digitalization/</link>
+    <description>Recent content in Digitalization on ai-cluster.ru</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-RU</language>
+    <lastBuildDate>Thu, 15 Aug 2019 11:35:34 +0600</lastBuildDate>
+    
+	<atom:link href="https://ai-cluster.github.io/tags/digitalization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Платформа ESDP</title>
+      <link>https://ai-cluster.github.io/blog/pres-19-post/</link>
+      <pubDate>Thu, 15 Aug 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-19-post/</guid>
+      <description>В Новосибирске была создана Платформа ESDP (Eyeline Semantic Definition Platform) - это платформа искусственного интеллекта AI 2.</description>
+    </item>
+    
+    <item>
+      <title>Семантический подход к цифровизации бизнеса</title>
+      <link>https://ai-cluster.github.io/blog/sviridenko-10-post/</link>
+      <pubDate>Thu, 15 Aug 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/sviridenko-10-post/</guid>
+      <description>ИСХОДНЫЕ ПОЛОЖЕНИЯ:
+  Методологическую основу семантического моделирования составляет задачный подход, теоретической базой является математическая логика (теория нумераций, теория вычислимых моделей, формульная определимость вычислений, вычисление как проверка истинности на вычислимой модели),теория вероятностей и другие разделы математики.</description>
+    </item>
+    
+    <item>
+      <title>Цифровизация</title>
+      <link>https://ai-cluster.github.io/blog/pres-18-post/</link>
+      <pubDate>Thu, 15 Aug 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-18-post/</guid>
+      <description>Цифровая экономика, а именно возникновение новых возможностей, безусловно, позитивным образом отражается на жизни человека.</description>
+    </item>
+    
+    <item>
+      <title>ЛОВУШКИ И ОБЩИЕ РЕКОМЕНДАЦИИ</title>
+      <link>https://ai-cluster.github.io/blog/sviridenko-4-post/</link>
+      <pubDate>Wed, 07 Aug 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/sviridenko-4-post/</guid>
+      <description>ОБЩИЕ РЕКОМЕНДАЦИИ (В ОБЛАСТИ ТЕХНОЛОГИЙ):
+  Большие данные:  использовать только свои продукты на основе собственной научной базы; использовать и хранить БД только на территории РФ, по утверждѐнным в РФ регламентам</description>
+    </item>
+    
+    <item>
+      <title>ОПРЕДЕЛЕНИЕ И ПЕРЕЧЕНЬ СКВОЗНЫХ ЦИФРОВЫХ ТЕХНОЛОГИЙ</title>
+      <link>https://ai-cluster.github.io/blog/pres-13-post/</link>
+      <pubDate>Wed, 07 Aug 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-13-post/</guid>
+      <description>В рамках Национальной технологической инициативы (НТИ) сквозные технологии были определены как ключевые научно-технические направления, которые оказывают наиболее существенное влияние на развитие рынков.</description>
+    </item>
+    
+    <item>
+      <title>о месте России в мировом тренде цифровизации</title>
+      <link>https://ai-cluster.github.io/blog/pres-9-post/</link>
+      <pubDate>Tue, 06 Aug 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-9-post/</guid>
+      <description>Мы являемся свидетелями того, как весь мир, а с ним и Россия постепенно втягивается в гонку так называемой цифровизации, представляющий собой несомненно реальный и объективный общемировой тренд, идущий на смену предыдущей информатизации общества.</description>
+    </item>
+    
+    <item>
+      <title>ОСНОВНЫЕ ЦЕЛИ ДЕЯТЕЛЬНОСТИ ММЦ</title>
+      <link>https://ai-cluster.github.io/blog/pres-8-post/</link>
+      <pubDate>Tue, 06 Aug 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-8-post/</guid>
+      <description>ИСХОДНЫЕ ПРЕДПОСЫЛКИ
+ Реализация Программы «Цифровая экономика» невозможна без использования экономикоматематического моделирования, ориентированного на создание целого комплекса взаимоувязанных экономико-математических моделей, пронизывающих всю реальную экономику с «верхних» ее этажей до самых «нижних».</description>
+    </item>
+    
+    <item>
+      <title>тезисы</title>
+      <link>https://ai-cluster.github.io/blog/pres-7-post/</link>
+      <pubDate>Wed, 31 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-7-post/</guid>
+      <description>Глобальная цифровизация российской экономики потребует, прежде всего, ее обеспечения методологической поддержкой, ориентированной на процессы постановки и решения задач.</description>
+    </item>
+    
+  </channel>
+</rss>
