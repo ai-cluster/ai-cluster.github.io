@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ai-cluster.github.io/article/article8/</loc>
+    <lastmod>2019-10-01T14:48:03+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ai-cluster.github.io/</loc>
-    <lastmod>2019-08-15T11:35:34+06:00</lastmod>
+    <lastmod>2019-10-01T14:48:03+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -20,6 +25,51 @@
                 hreflang="ru"
                 href="https://ai-cluster.github.io/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.github.io/article/article7/</loc>
+    <lastmod>2019-10-01T14:48:03+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.github.io/article/article9/</loc>
+    <lastmod>2019-10-01T14:48:03+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.github.io/blog1/1test-smi/</loc>
+    <lastmod>2019-10-01T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.github.io/article/article2/</loc>
+    <lastmod>2019-09-28T14:48:03+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.github.io/article/article1/</loc>
+    <lastmod>2019-09-28T14:48:03+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.github.io/article/article6/</loc>
+    <lastmod>2019-09-20T14:48:03+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.github.io/article/article5/</loc>
+    <lastmod>2019-09-19T14:48:03+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.github.io/article/article4/</loc>
+    <lastmod>2019-09-18T14:48:03+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.github.io/article/article3/</loc>
+    <lastmod>2019-09-18T14:48:03+06:00</lastmod>
   </url>
   
   <url>
@@ -508,11 +558,6 @@
   </url>
   
   <url>
-    <loc>https://ai-cluster.github.io/article/article1/</loc>
-    <lastmod>2019-07-22T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ai-cluster.github.io/contact/</loc>
     <lastmod>2019-07-19T18:19:33+06:00</lastmod>
     <xhtml:link
@@ -759,6 +804,21 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://ai-cluster.github.io/service/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.github.io/blog1/</loc>
+    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://ai-cluster.github.io/fr/blog1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://ai-cluster.github.io/blog1/"
                 />
   </url>
   

@@ -96,7 +96,7 @@ function initialize() {
         position: nottingham,
         map: map,
         icon: pinIcon,
-        title: 'Biztrox'
+        title: 'ai-cluster'
     });
 }
 var map = document.getElementById('map_canvas');
