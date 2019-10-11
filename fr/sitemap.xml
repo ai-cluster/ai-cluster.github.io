@@ -20,6 +20,7 @@
   <url>
     <loc>https://ai-cluster.github.io/fr/</loc>
     <lastmod>2018-09-29T14:43:10+06:00</lastmod>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -273,21 +274,6 @@
   </url>
   
   <url>
-    <loc>https://ai-cluster.github.io/fr/blog/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://ai-cluster.github.io/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://ai-cluster.github.io/fr/blog/"
-                />
-  </url>
-  
-  <url>
     <loc>https://ai-cluster.github.io/fr/blog1/</loc>
     <lastmod>2018-07-12T18:19:33+06:00</lastmod>
     <xhtml:link
@@ -299,6 +285,21 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://ai-cluster.github.io/fr/blog1/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.github.io/fr/blog/</loc>
+    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://ai-cluster.github.io/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://ai-cluster.github.io/fr/blog/"
                 />
   </url>
   
@@ -404,6 +405,7 @@
   
   <url>
     <loc>https://ai-cluster.github.io/fr/categories/</loc>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -423,6 +425,7 @@
   
   <url>
     <loc>https://ai-cluster.github.io/fr/tags/</loc>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
