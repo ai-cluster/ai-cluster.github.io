@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on ai-cluster.ru</title>
+    <title>Новости/Статьи on ai-cluster.ru</title>
     <link>https://ai-cluster.github.io/posts/</link>
-    <description>Recent content in Posts on ai-cluster.ru</description>
+    <description>Recent content in Новости/Статьи on ai-cluster.ru</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
-    <lastBuildDate>Wed, 31 Jul 2019 11:07:10 +0600</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate>
     
 	<atom:link href="https://ai-cluster.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
