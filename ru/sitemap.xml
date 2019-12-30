@@ -3,8 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ai-cluster.github.io/tags/artificial-intelligence/</loc>
+    <lastmod>2019-12-27T11:45:34+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ai-cluster.github.io/categories/</loc>
-    <lastmod>2019-10-15T11:35:34+06:00</lastmod>
+    <lastmod>2019-12-27T11:45:34+06:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -25,7 +31,7 @@
   
   <url>
     <loc>https://ai-cluster.github.io/tags/</loc>
-    <lastmod>2019-10-15T11:35:34+06:00</lastmod>
+    <lastmod>2019-12-27T11:45:34+06:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -45,14 +51,8 @@
   </url>
   
   <url>
-    <loc>https://ai-cluster.github.io/tags/ai-cluster/</loc>
-    <lastmod>2019-10-15T11:35:34+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ai-cluster.github.io/</loc>
-    <lastmod>2019-10-15T11:35:34+06:00</lastmod>
+    <lastmod>2019-12-27T11:45:34+06:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -72,9 +72,36 @@
   </url>
   
   <url>
-    <loc>https://ai-cluster.github.io/categories/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D1%82%D0%B5%D0%BC%D1%8B/</loc>
-    <lastmod>2019-10-15T11:35:34+06:00</lastmod>
+    <loc>https://ai-cluster.github.io/blog/pres-potapov/</loc>
+    <lastmod>2019-12-27T11:45:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.github.io/categories/%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8/</loc>
+    <lastmod>2019-12-27T11:45:34+06:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.github.io/tags/ai-cluster/</loc>
+    <lastmod>2019-12-27T11:40:34+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.github.io/categories/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D1%82%D0%B5%D0%BC%D1%8B/</loc>
+    <lastmod>2019-12-27T11:40:34+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.github.io/blog/predprinimateli/</loc>
+    <lastmod>2019-12-27T11:40:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.github.io/blog/perevod_russkogo_zhestovogo_jazyka/</loc>
+    <lastmod>2019-12-27T11:35:34+06:00</lastmod>
   </url>
   
   <url>
@@ -128,12 +155,6 @@
   </url>
   
   <url>
-    <loc>https://ai-cluster.github.io/tags/artificial-intelligence/</loc>
-    <lastmod>2019-08-15T11:35:34+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ai-cluster.github.io/tags/digitalization/</loc>
     <lastmod>2019-08-15T11:35:34+06:00</lastmod>
     <priority>0</priority>
@@ -165,12 +186,6 @@
   <url>
     <loc>https://ai-cluster.github.io/blog/pres-19-post/</loc>
     <lastmod>2019-08-15T11:35:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ai-cluster.github.io/categories/%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8/</loc>
-    <lastmod>2019-08-15T11:35:34+06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

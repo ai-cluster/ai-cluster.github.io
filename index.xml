@@ -6,10 +6,37 @@
     <description>Recent content on ai-cluster.ru</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
-    <lastBuildDate>Tue, 15 Oct 2019 11:35:34 +0600</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2019 11:45:34 +0600</lastBuildDate>
     
 	<atom:link href="https://ai-cluster.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Общий искусственный интеллект: подходы и нерешенные проблемы</title>
+      <link>https://ai-cluster.github.io/blog/pres-potapov/</link>
+      <pubDate>Fri, 27 Dec 2019 11:45:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-potapov/</guid>
+      <description>Доклад Алексея Потапова (Санкт-Петербург, AIDEUS, SingularityNET) по теме &amp;ldquo;Общий искусственный интеллект: подходы и нерешенные проблемы&amp;rdquo; - в формате телеконференции по Skype с удаленным спикером, с последующим обсуждением - в рамках семинара Сибирской школы искусственного интеллекта.</description>
+    </item>
+    
+    <item>
+      <title>ПРЕДПРИНИМАТЕЛИ ПОЛУЧИЛИ ЗОЛОТЫЕ МЕДАЛИ КОНКУРСА «ГЕММА» ЗА 2019 ГОД</title>
+      <link>https://ai-cluster.github.io/blog/predprinimateli/</link>
+      <pubDate>Fri, 27 Dec 2019 11:40:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/predprinimateli/</guid>
+      <description>25 декабря в большом зале правительства Новосибирской области состоялось ежегодное торжественное награждение предприятий и организаций России за победу в международном конкурсе качества «Лучшие товары и услуги «ГЕММА-2019».</description>
+    </item>
+    
+    <item>
+      <title>Машинный перевод русского жестового языка. Проблемы и перспективы.</title>
+      <link>https://ai-cluster.github.io/blog/perevod_russkogo_zhestovogo_jazyka/</link>
+      <pubDate>Fri, 27 Dec 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/perevod_russkogo_zhestovogo_jazyka/</guid>
+      <description>Доклад М.Г.Грифа и А.Приходько: &amp;ldquo;Машинный перевод русского жестового языка. Проблемы и перспективы.</description>
+    </item>
     
     <item>
       <title>Новосибирск выбран для создания математического центра мирового уровня</title>
