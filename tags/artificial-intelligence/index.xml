@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artificial Intelligence on ai-cluster.ru</title>
+    <link>https://ai-cluster.github.io/tags/artificial-intelligence/</link>
+    <description>Recent content in Artificial Intelligence on ai-cluster.ru</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-RU</language>
+    <lastBuildDate>Fri, 27 Dec 2019 11:45:34 +0600</lastBuildDate>
+    
+	<atom:link href="https://ai-cluster.github.io/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Общий искусственный интеллект: подходы и нерешенные проблемы</title>
+      <link>https://ai-cluster.github.io/blog/pres-potapov/</link>
+      <pubDate>Fri, 27 Dec 2019 11:45:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-potapov/</guid>
+      <description>Доклад Алексея Потапова (Санкт-Петербург, AIDEUS, SingularityNET) по теме &amp;ldquo;Общий искусственный интеллект: подходы и нерешенные проблемы&amp;rdquo; - в формате телеконференции по Skype с удаленным спикером, с последующим обсуждением - в рамках семинара Сибирской школы искусственного интеллекта.</description>
+    </item>
+    
+    <item>
+      <title>Альтернативный, теоретико-модельный подход к решению задач</title>
+      <link>https://ai-cluster.github.io/blog/sviridenko-8-post/</link>
+      <pubDate>Thu, 15 Aug 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/sviridenko-8-post/</guid>
+      <description>Концепция семантического моделирования получила свое воплощение в целой серии теоретических и прикладных работ.</description>
+    </item>
+    
+    <item>
+      <title>Платформа ESDP</title>
+      <link>https://ai-cluster.github.io/blog/pres-19-post/</link>
+      <pubDate>Thu, 15 Aug 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-19-post/</guid>
+      <description>В Новосибирске была создана Платформа ESDP (Eyeline Semantic Definition Platform) - это платформа искусственного интеллекта AI 2.</description>
+    </item>
+    
+    <item>
+      <title>СБАЛАНСИРОВАННАЯ СИСТЕМА ПОКАЗАТЕЛЕЙ (ССП/BSC)</title>
+      <link>https://ai-cluster.github.io/blog/pres-17-post/</link>
+      <pubDate>Thu, 15 Aug 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-17-post/</guid>
+      <description>Продукт основан на методике 20 ключей и разрабатывается совместно с SCC Group — одной из ведущих консалтинговых компаний Сибири и Дальнего Востока (www.</description>
+    </item>
+    
+    <item>
+      <title>Элементы языка d0sl</title>
+      <link>https://ai-cluster.github.io/blog/pres-15-post/</link>
+      <pubDate>Tue, 13 Aug 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-15-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>НОВЫЙ ДИВНЫЙ МИР</title>
+      <link>https://ai-cluster.github.io/blog/pres-6-post/</link>
+      <pubDate>Wed, 31 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-6-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully-featured dialog system and domain-specific virtual assistant solutions for exceptional business efficiency</title>
+      <link>https://ai-cluster.github.io/blog/pres-3-post/</link>
+      <pubDate>Tue, 30 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-3-post/</guid>
+      <description> Dialog system &amp;amp; agents. What is it?
+ </description>
+    </item>
+    
+    <item>
+      <title>Полнофункциональная диалоговая платформа и индустриальные виртуальные ассистенты на базе искусственного интеллекта</title>
+      <link>https://ai-cluster.github.io/blog/pres-2-post/</link>
+      <pubDate>Tue, 30 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-2-post/</guid>
+      <description>На базе платформы можно создавать как простых чатботов с кнопками и скриптами, так и высокоинтеллектуальных виртуальных ассистентов с гибкими настройками памяти, способностью вести многошаговые диалоги, дообучаться, а также маршрутизировать диалоги на реальных операторов и подсказывать им в режиме реального времени.</description>
+    </item>
+    
+    <item>
+      <title>Методичка для разработчиков</title>
+      <link>https://ai-cluster.github.io/blog/expasoft-6-post/</link>
+      <pubDate>Mon, 29 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/expasoft-6-post/</guid>
+      <description>Около 10 лет тому назад Группа компаний Eyeline создала, развивает и успешно эксплуатирует платформу ESDP, первоначально предназначенную для применения в телекоммуникационной отрасли.</description>
+    </item>
+    
+    <item>
+      <title>ОБЛАСТИ ПРИМЕНЕНИЯ И СЕМАНТИЧЕСКИЕ DSL</title>
+      <link>https://ai-cluster.github.io/blog/expasoft-3-post/</link>
+      <pubDate>Thu, 25 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/expasoft-3-post/</guid>
+      <description>Платформа Eyeline Semantic Definition Platform (ESDP) базируется на языке семантических спецификаций Delta0 Semantic Language (см http://d0sl.</description>
+    </item>
+    
+    <item>
+      <title>Концепция</title>
+      <link>https://ai-cluster.github.io/blog/palchunov-1-post/</link>
+      <pubDate>Tue, 23 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/palchunov-1-post/</guid>
+      <description>Традиционный подход к разработке ПО основанный на применении алгоритмических языков программирования состоит из следующих основных этапов:</description>
+    </item>
+    
+  </channel>
+</rss>

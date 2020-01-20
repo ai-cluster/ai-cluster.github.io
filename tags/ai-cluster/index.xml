@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ai-cluster on ai-cluster.ru</title>
+    <link>https://ai-cluster.github.io/tags/ai-cluster/</link>
+    <description>Recent content in ai-cluster on ai-cluster.ru</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-RU</language>
+    <lastBuildDate>Fri, 27 Dec 2019 11:40:34 +0600</lastBuildDate>
+    
+	<atom:link href="https://ai-cluster.github.io/tags/ai-cluster/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ПРЕДПРИНИМАТЕЛИ ПОЛУЧИЛИ ЗОЛОТЫЕ МЕДАЛИ КОНКУРСА «ГЕММА» ЗА 2019 ГОД</title>
+      <link>https://ai-cluster.github.io/blog/predprinimateli/</link>
+      <pubDate>Fri, 27 Dec 2019 11:40:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/predprinimateli/</guid>
+      <description>25 декабря в большом зале правительства Новосибирской области состоялось ежегодное торжественное награждение предприятий и организаций России за победу в международном конкурсе качества «Лучшие товары и услуги «ГЕММА-2019».</description>
+    </item>
+    
+    <item>
+      <title>Машинный перевод русского жестового языка. Проблемы и перспективы.</title>
+      <link>https://ai-cluster.github.io/blog/perevod_russkogo_zhestovogo_jazyka/</link>
+      <pubDate>Fri, 27 Dec 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/perevod_russkogo_zhestovogo_jazyka/</guid>
+      <description>Доклад М.Г.Грифа и А.Приходько: &amp;ldquo;Машинный перевод русского жестового языка. Проблемы и перспективы.</description>
+    </item>
+    
+    <item>
+      <title>Новосибирск выбран для создания математического центра мирового уровня</title>
+      <link>https://ai-cluster.github.io/blog/news-soran-nsu-post/</link>
+      <pubDate>Tue, 15 Oct 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/news-soran-nsu-post/</guid>
+      <description>На базе Института математики СО РАН и Новосибирского госуниверситета создадут Математический центр в Академгородке.</description>
+    </item>
+    
+    <item>
+      <title>Объяснимое самообучение естественным</title>
+      <link>https://ai-cluster.github.io/blog/samoobuchenie/</link>
+      <pubDate>Tue, 01 Oct 2019 11:45:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/samoobuchenie/</guid>
+      <description>Автоматическое формирование языковых человеко-читаемых языковых моделей (грамматик и онтологий) обучением на не размеченных текстовых корпусах в проектах OpenCog и SingularityNET, а также - как это может использоваться в проекте Aigents®</description>
+    </item>
+    
+    <item>
+      <title>Репутационные системы в децентрализированных социальных и роевых средах</title>
+      <link>https://ai-cluster.github.io/blog/reputacionnye_sistemy/</link>
+      <pubDate>Tue, 01 Oct 2019 11:45:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/reputacionnye_sistemy/</guid>
+      <description>Вычислительные подходы для построения репутационных систем в цифровых платформах на основе работ Aigents® и SingularityNET</description>
+    </item>
+    
+    <item>
+      <title>Какую проблему мы решаем</title>
+      <link>https://ai-cluster.github.io/posts/our_approach/</link>
+      <pubDate>Wed, 31 Jul 2019 11:07:10 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/posts/our_approach/</guid>
+      <description>Венчурные инвестиции в наукоемкие проекты и компании (deep tech) остаются одними из наиболее популярных инструментов на Американском и Европейском рынках.</description>
+    </item>
+    
+  </channel>
+</rss>
