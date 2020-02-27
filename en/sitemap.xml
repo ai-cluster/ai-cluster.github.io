@@ -45,7 +45,6 @@
   <url>
     <loc>https://ai-cluster.github.io/en/</loc>
     <lastmod>2018-09-29T11:54:02+06:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -66,7 +65,6 @@
   <url>
     <loc>https://ai-cluster.github.io/en/service/</loc>
     <lastmod>2018-09-29T11:54:02+06:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -187,7 +185,6 @@
   <url>
     <loc>https://ai-cluster.github.io/en/project/</loc>
     <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -227,7 +224,6 @@
   
   <url>
     <loc>https://ai-cluster.github.io/en/categories/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -247,7 +243,6 @@
   
   <url>
     <loc>https://ai-cluster.github.io/en/tags/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"

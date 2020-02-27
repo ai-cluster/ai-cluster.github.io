@@ -20,7 +20,6 @@
   <url>
     <loc>https://ai-cluster.github.io/fr/</loc>
     <lastmod>2018-09-29T14:43:10+06:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -405,7 +404,6 @@
   
   <url>
     <loc>https://ai-cluster.github.io/fr/categories/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -425,7 +423,6 @@
   
   <url>
     <loc>https://ai-cluster.github.io/fr/tags/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
