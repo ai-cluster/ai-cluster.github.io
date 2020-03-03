@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>D0sl on ai-cluster.ru</title>
+    <title>d0sl on ai-cluster.ru</title>
     <link>https://ai-cluster.github.io/tags/d0sl/</link>
-    <description>Recent content in D0sl on ai-cluster.ru</description>
+    <description>Recent content in d0sl on ai-cluster.ru</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
-    <lastBuildDate>Thu, 15 Aug 2019 11:35:34 +0600</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2020 11:45:34 +0600</lastBuildDate>
     
 	<atom:link href="https://ai-cluster.github.io/tags/d0sl/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Языки семантического домена</title>
+      <link>https://ai-cluster.github.io/blog/semantic-domain-specific-languages/</link>
+      <pubDate>Tue, 25 Feb 2020 11:45:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/semantic-domain-specific-languages/</guid>
+      <description>Аннотация: Обосновывается введение семантических доменных языков (sDSL) с точки зрения проблем, стоящих перед ИТ-индустрией.</description>
+    </item>
     
     <item>
       <title>Платформа ESDP</title>

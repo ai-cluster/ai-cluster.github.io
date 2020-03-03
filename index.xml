@@ -6,10 +6,37 @@
     <description>Recent content on ai-cluster.ru</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
-    <lastBuildDate>Fri, 27 Dec 2019 11:45:34 +0600</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2020 11:45:34 +0600</lastBuildDate>
     
 	<atom:link href="https://ai-cluster.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Логические методы для разработки умных контрактов</title>
+      <link>https://ai-cluster.github.io/blog/logical-methods/</link>
+      <pubDate>Wed, 26 Feb 2020 11:45:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/logical-methods/</guid>
+      <description>Аннотация: Статья содержит описание современного состояния развития формализации бизнес-процессов.</description>
+    </item>
+    
+    <item>
+      <title>Языки семантического домена</title>
+      <link>https://ai-cluster.github.io/blog/semantic-domain-specific-languages/</link>
+      <pubDate>Tue, 25 Feb 2020 11:45:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/semantic-domain-specific-languages/</guid>
+      <description>Аннотация: Обосновывается введение семантических доменных языков (sDSL) с точки зрения проблем, стоящих перед ИТ-индустрией.</description>
+    </item>
+    
+    <item>
+      <title>Следующие цели в гонке ИИ — объяснимость и обучаемость</title>
+      <link>https://ai-cluster.github.io/article/article10/</link>
+      <pubDate>Wed, 05 Feb 2020 14:48:03 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/article/article10/</guid>
+      <description>Последние несколько лет ознаменовались прорывными достижениями в технологии нейронных сетей, например, их способностью самостоятельно обыгрывать любого из живущих на Земле людей в сложнейшую из игр, придуманных человечеством, а также синтезировать изображения и голоса существующих и несуществующих людей так, что их не отличить от реальных.</description>
+    </item>
     
     <item>
       <title>Общий искусственный интеллект: подходы и нерешенные проблемы</title>

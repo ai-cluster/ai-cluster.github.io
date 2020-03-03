@@ -6,10 +6,46 @@
     <description>Recent content in Tags on ai-cluster.ru</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
-    <lastBuildDate>Fri, 27 Dec 2019 11:45:34 +0600</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2020 11:45:34 +0600</lastBuildDate>
     
 	<atom:link href="https://ai-cluster.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Semantic Smart Contracts</title>
+      <link>https://ai-cluster.github.io/tags/semantic-smart-contracts/</link>
+      <pubDate>Wed, 26 Feb 2020 11:45:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/tags/semantic-smart-contracts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ai-cluster</title>
+      <link>https://ai-cluster.github.io/tags/ai-cluster/</link>
+      <pubDate>Tue, 25 Feb 2020 11:45:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/tags/ai-cluster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>d0sl</title>
+      <link>https://ai-cluster.github.io/tags/d0sl/</link>
+      <pubDate>Tue, 25 Feb 2020 11:45:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/tags/d0sl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Modelling</title>
+      <link>https://ai-cluster.github.io/tags/semantic-modelling/</link>
+      <pubDate>Tue, 25 Feb 2020 11:45:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/tags/semantic-modelling/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Artificial Intelligence</title>
@@ -21,47 +57,11 @@
     </item>
     
     <item>
-      <title>ai-cluster</title>
-      <link>https://ai-cluster.github.io/tags/ai-cluster/</link>
-      <pubDate>Fri, 27 Dec 2019 11:40:34 +0600</pubDate>
-      
-      <guid>https://ai-cluster.github.io/tags/ai-cluster/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>D0sl</title>
-      <link>https://ai-cluster.github.io/tags/d0sl/</link>
-      <pubDate>Thu, 15 Aug 2019 11:35:34 +0600</pubDate>
-      
-      <guid>https://ai-cluster.github.io/tags/d0sl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Digitalization</title>
       <link>https://ai-cluster.github.io/tags/digitalization/</link>
       <pubDate>Thu, 15 Aug 2019 11:35:34 +0600</pubDate>
       
       <guid>https://ai-cluster.github.io/tags/digitalization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Semantic Modelling</title>
-      <link>https://ai-cluster.github.io/tags/semantic-modelling/</link>
-      <pubDate>Thu, 15 Aug 2019 11:35:34 +0600</pubDate>
-      
-      <guid>https://ai-cluster.github.io/tags/semantic-modelling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Semantic Smart Contracts</title>
-      <link>https://ai-cluster.github.io/tags/semantic-smart-contracts/</link>
-      <pubDate>Thu, 08 Aug 2019 11:35:34 +0600</pubDate>
-      
-      <guid>https://ai-cluster.github.io/tags/semantic-smart-contracts/</guid>
       <description></description>
     </item>
     

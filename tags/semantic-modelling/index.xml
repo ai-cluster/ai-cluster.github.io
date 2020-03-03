@@ -6,10 +6,19 @@
     <description>Recent content in Semantic Modelling on ai-cluster.ru</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
-    <lastBuildDate>Thu, 15 Aug 2019 11:35:34 +0600</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2020 11:45:34 +0600</lastBuildDate>
     
 	<atom:link href="https://ai-cluster.github.io/tags/semantic-modelling/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Языки семантического домена</title>
+      <link>https://ai-cluster.github.io/blog/semantic-domain-specific-languages/</link>
+      <pubDate>Tue, 25 Feb 2020 11:45:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/semantic-domain-specific-languages/</guid>
+      <description>Аннотация: Обосновывается введение семантических доменных языков (sDSL) с точки зрения проблем, стоящих перед ИТ-индустрией.</description>
+    </item>
     
     <item>
       <title>Альтернативный, теоретико-модельный подход к решению задач</title>
