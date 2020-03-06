@@ -6,10 +6,19 @@
     <description>Recent content on ai-cluster.ru</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
-    <lastBuildDate>Wed, 26 Feb 2020 11:45:34 +0600</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2020 14:48:03 +0600</lastBuildDate>
     
 	<atom:link href="https://ai-cluster.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Цифровая трансформация бизнеса и искусственный интеллект</title>
+      <link>https://ai-cluster.github.io/article/article_konference/</link>
+      <pubDate>Tue, 03 Mar 2020 14:48:03 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/article/article_konference/</guid>
+      <description>Как цифровизация может упростить жизнь бизнесу, в какие наукоемкие проекты готовы вкладываться венчурные фонды и почему фундаментальная наука — одно из главных преимуществ России в сфере высоких технологий, рассказали эксперты на конференции «Цифровизация бизнеса.</description>
+    </item>
     
     <item>
       <title>Логические методы для разработки умных контрактов</title>
@@ -27,6 +36,102 @@
       
       <guid>https://ai-cluster.github.io/blog/semantic-domain-specific-languages/</guid>
       <description>Аннотация: Обосновывается введение семантических доменных языков (sDSL) с точки зрения проблем, стоящих перед ИТ-индустрией.</description>
+    </item>
+    
+    <item>
+      <title>AI-cluster - надежный фундамент для высокотехнологичных проектов (deep tech)</title>
+      <link>https://ai-cluster.github.io/blog/pres-1-konf/</link>
+      <pubDate>Thu, 20 Feb 2020 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-1-konf/</guid>
+      <description>Мы разрабатываем и внедряем семантический искусственный интеллект. Решение, предлагаемое машиной, должно быть понятным для человека.</description>
+    </item>
+    
+    <item>
+      <title>EVA 5.0 – готовое комплексное решение для цифрового прорыва</title>
+      <link>https://ai-cluster.github.io/blog/pres-9-konf/</link>
+      <pubDate>Thu, 20 Feb 2020 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-9-konf/</guid>
+      <description> EVA – успешный кейс ЦИФРОВОЙ ТРАНСФОРМАЦИИ
+ </description>
+    </item>
+    
+    <item>
+      <title>RTCLOUD - сеть территориально распределенных ДатаЦентров в РФ</title>
+      <link>https://ai-cluster.github.io/blog/pres-10-konf/</link>
+      <pubDate>Thu, 20 Feb 2020 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-10-konf/</guid>
+      <description>О компании
+• Сеть Дата Центров
+• Облачная платформа корпоративного класса</description>
+    </item>
+    
+    <item>
+      <title>Институт вычислительной математики и математической геофизики СО РАН</title>
+      <link>https://ai-cluster.github.io/blog/pres-4-konf/</link>
+      <pubDate>Thu, 20 Feb 2020 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-4-konf/</guid>
+      <description>Основные научные направления по уставу: • Вычислительная математика</description>
+    </item>
+    
+    <item>
+      <title>Министерство цифрового развития и связи Новосибирской области</title>
+      <link>https://ai-cluster.github.io/blog/pres-2-konf/</link>
+      <pubDate>Thu, 20 Feb 2020 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-2-konf/</guid>
+      <description>НЕСКОЛЬКО ОБЩИХ СЕРВИСНЫХ ПОДХОДОВ
+ Единая точка доступа к сервисам – ЕПГУ, МФЦ</description>
+    </item>
+    
+    <item>
+      <title>Платформа iVoice</title>
+      <link>https://ai-cluster.github.io/blog/pres-5-konf/</link>
+      <pubDate>Thu, 20 Feb 2020 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-5-konf/</guid>
+      <description>Платформа iVoice позволяет многим компаниям строить собственные продукты и решения.</description>
+    </item>
+    
+    <item>
+      <title>Программы поддержки НТИ</title>
+      <link>https://ai-cluster.github.io/blog/pres-6-konf/</link>
+      <pubDate>Thu, 20 Feb 2020 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-6-konf/</guid>
+      <description>БАЗОВЫЕ ТРЕБОВАНИЯ НА СТРОНЕ НТИ
+• Ориентация на создание продуктов, нацеленных на глобальный рынок</description>
+    </item>
+    
+    <item>
+      <title>РОССИЙСКАЯ ОПЕРАЦИОННАЯ СИСТЕМА</title>
+      <link>https://ai-cluster.github.io/blog/pres-8-konf/</link>
+      <pubDate>Thu, 20 Feb 2020 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-8-konf/</guid>
+      <description>ЕДИНАЯ ПЛАТФОРМА ДЛЯ ВСЕХ ТИПОВ УСТРОЙСТВ, СОВМЕСТИМАЯ С БОЛЬШИНСТВОМ БРЕНДОВ АППАРАТНОГО ОБОРУДОВАНИЯ</description>
+    </item>
+    
+    <item>
+      <title>СИБИРСКАЯ ШКОЛА ИСКУССТВЕННОГО ИНТЕЛЛЕКТА</title>
+      <link>https://ai-cluster.github.io/blog/pres-7-konf/</link>
+      <pubDate>Thu, 20 Feb 2020 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-7-konf/</guid>
+      <description>Институт математики им. С. Л. Соболева СО РАН – один из крупнейших и авторитетнейших математических центров в мире.</description>
+    </item>
+    
+    <item>
+      <title>Финтех и ИИ</title>
+      <link>https://ai-cluster.github.io/blog/pres-3-konf/</link>
+      <pubDate>Thu, 20 Feb 2020 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-3-konf/</guid>
+      <description>Eyeline Group
+ Компания ИТ-инноваций и мобильных технологий с 2001 года</description>
     </item>
     
     <item>
@@ -340,15 +445,6 @@
     </item>
     
     <item>
-      <title>о месте России в мировом тренде цифровизации</title>
-      <link>https://ai-cluster.github.io/blog/pres-9-post/</link>
-      <pubDate>Tue, 06 Aug 2019 11:35:34 +0600</pubDate>
-      
-      <guid>https://ai-cluster.github.io/blog/pres-9-post/</guid>
-      <description>Мы являемся свидетелями того, как весь мир, а с ним и Россия постепенно втягивается в гонку так называемой цифровизации, представляющий собой несомненно реальный и объективный общемировой тренд, идущий на смену предыдущей информатизации общества.</description>
-    </item>
-    
-    <item>
       <title>ОСНОВНЫЕ ЦЕЛИ ДЕЯТЕЛЬНОСТИ ММЦ</title>
       <link>https://ai-cluster.github.io/blog/pres-8-post/</link>
       <pubDate>Tue, 06 Aug 2019 11:35:34 +0600</pubDate>
@@ -356,6 +452,15 @@
       <guid>https://ai-cluster.github.io/blog/pres-8-post/</guid>
       <description>ИСХОДНЫЕ ПРЕДПОСЫЛКИ
  Реализация Программы «Цифровая экономика» невозможна без использования экономикоматематического моделирования, ориентированного на создание целого комплекса взаимоувязанных экономико-математических моделей, пронизывающих всю реальную экономику с «верхних» ее этажей до самых «нижних».</description>
+    </item>
+    
+    <item>
+      <title>о месте России в мировом тренде цифровизации</title>
+      <link>https://ai-cluster.github.io/blog/pres-9-post/</link>
+      <pubDate>Tue, 06 Aug 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-9-post/</guid>
+      <description>Мы являемся свидетелями того, как весь мир, а с ним и Россия постепенно втягивается в гонку так называемой цифровизации, представляющий собой несомненно реальный и объективный общемировой тренд, идущий на смену предыдущей информатизации общества.</description>
     </item>
     
     <item>

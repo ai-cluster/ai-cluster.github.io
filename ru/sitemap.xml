@@ -4,7 +4,8 @@
   
   <url>
     <loc>https://ai-cluster.github.io/</loc>
-    <lastmod>2020-02-26T11:45:34+06:00</lastmod>
+    <lastmod>2020-03-03T14:48:03+06:00</lastmod>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -23,8 +24,14 @@
   </url>
   
   <url>
+    <loc>https://ai-cluster.github.io/article/article_konference/</loc>
+    <lastmod>2020-03-03T14:48:03+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ai-cluster.github.io/categories/</loc>
     <lastmod>2020-02-26T11:45:34+06:00</lastmod>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -45,11 +52,13 @@
   <url>
     <loc>https://ai-cluster.github.io/tags/semantic-smart-contracts/</loc>
     <lastmod>2020-02-26T11:45:34+06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ai-cluster.github.io/tags/</loc>
     <lastmod>2020-02-26T11:45:34+06:00</lastmod>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -75,41 +84,104 @@
   <url>
     <loc>https://ai-cluster.github.io/categories/%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/</loc>
     <lastmod>2020-02-26T11:45:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ai-cluster.github.io/tags/ai-cluster/</loc>
-    <lastmod>2020-02-25T11:45:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ai-cluster.github.io/tags/d0sl/</loc>
-    <lastmod>2020-02-25T11:45:34+06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ai-cluster.github.io/tags/semantic-modelling/</loc>
     <lastmod>2020-02-25T11:45:34+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.github.io/tags/ai-cluster/</loc>
+    <lastmod>2020-02-25T11:45:34+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.github.io/tags/d0sl/</loc>
+    <lastmod>2020-02-25T11:45:34+06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ai-cluster.github.io/categories/%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0-esdp/</loc>
     <lastmod>2020-02-25T11:45:34+06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ai-cluster.github.io/categories/%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8/</loc>
     <lastmod>2020-02-25T11:45:34+06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ai-cluster.github.io/categories/%D1%81%D0%B5%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%D0%BA%D0%B0/</loc>
     <lastmod>2020-02-25T11:45:34+06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ai-cluster.github.io/blog/semantic-domain-specific-languages/</loc>
     <lastmod>2020-02-25T11:45:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.github.io/blog/pres-1-konf/</loc>
+    <lastmod>2020-02-20T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.github.io/blog/pres-9-konf/</loc>
+    <lastmod>2020-02-20T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.github.io/blog/pres-10-konf/</loc>
+    <lastmod>2020-02-20T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.github.io/blog/pres-4-konf/</loc>
+    <lastmod>2020-02-20T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.github.io/categories/%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D1%8F-20.02.2020/</loc>
+    <lastmod>2020-02-20T11:35:34+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.github.io/blog/pres-2-konf/</loc>
+    <lastmod>2020-02-20T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.github.io/blog/pres-5-konf/</loc>
+    <lastmod>2020-02-20T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.github.io/blog/pres-6-konf/</loc>
+    <lastmod>2020-02-20T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.github.io/blog/pres-8-konf/</loc>
+    <lastmod>2020-02-20T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.github.io/blog/pres-7-konf/</loc>
+    <lastmod>2020-02-20T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.github.io/blog/pres-3-konf/</loc>
+    <lastmod>2020-02-20T11:35:34+06:00</lastmod>
   </url>
   
   <url>
@@ -120,6 +192,7 @@
   <url>
     <loc>https://ai-cluster.github.io/tags/artificial-intelligence/</loc>
     <lastmod>2019-12-27T11:45:34+06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -130,6 +203,7 @@
   <url>
     <loc>https://ai-cluster.github.io/categories/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D1%82%D0%B5%D0%BC%D1%8B/</loc>
     <lastmod>2019-12-27T11:40:34+06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -205,6 +279,7 @@
   <url>
     <loc>https://ai-cluster.github.io/tags/digitalization/</loc>
     <lastmod>2019-08-15T11:35:34+06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -298,18 +373,19 @@
   </url>
   
   <url>
-    <loc>https://ai-cluster.github.io/blog/pres-9-post/</loc>
+    <loc>https://ai-cluster.github.io/blog/pres-8-post/</loc>
     <lastmod>2019-08-06T11:35:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ai-cluster.github.io/blog/pres-8-post/</loc>
+    <loc>https://ai-cluster.github.io/blog/pres-9-post/</loc>
     <lastmod>2019-08-06T11:35:34+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://ai-cluster.github.io/tags/medicine/</loc>
     <lastmod>2019-08-02T11:35:34+06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -320,6 +396,7 @@
   <url>
     <loc>https://ai-cluster.github.io/categories/%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0/</loc>
     <lastmod>2019-08-02T11:35:34+06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -465,11 +542,13 @@
   <url>
     <loc>https://ai-cluster.github.io/tags/machine-learning/</loc>
     <lastmod>2019-07-29T11:35:34+06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ai-cluster.github.io/tags/neural-network/</loc>
     <lastmod>2019-07-29T11:35:34+06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -505,11 +584,13 @@
   <url>
     <loc>https://ai-cluster.github.io/tags/data-mining/</loc>
     <lastmod>2019-07-25T11:35:34+06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ai-cluster.github.io/tags/deep-learning/</loc>
     <lastmod>2019-07-25T11:35:34+06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -545,16 +626,19 @@
   <url>
     <loc>https://ai-cluster.github.io/tags/mobile-networks/</loc>
     <lastmod>2019-07-24T11:35:34+06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ai-cluster.github.io/tags/model-theoretic-methods/</loc>
     <lastmod>2019-07-24T11:35:34+06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ai-cluster.github.io/tags/risk-management/</loc>
     <lastmod>2019-07-24T11:35:34+06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
