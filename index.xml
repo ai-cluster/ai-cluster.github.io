@@ -6,10 +6,19 @@
     <description>Recent content on ai-cluster.ru</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
-    <lastBuildDate>Tue, 03 Mar 2020 14:48:03 +0600</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2020 14:48:03 +0600</lastBuildDate>
     
 	<atom:link href="https://ai-cluster.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>О создании кластера по разработке и внедрению технологий искусственного интеллекта</title>
+      <link>https://ai-cluster.github.io/article/article_konference_2/</link>
+      <pubDate>Tue, 17 Mar 2020 14:48:03 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/article/article_konference_2/</guid>
+      <description>В ТАСС (Новосибирск) состоялась пресс-конференция о создании кластера по разработке и тиражированию технологий и сервисов с использованием искусственного интеллекта.</description>
+    </item>
     
     <item>
       <title>Цифровая трансформация бизнеса и искусственный интеллект</title>
@@ -508,6 +517,15 @@
     </item>
     
     <item>
+      <title>о месте России в мировом тренде цифровизации</title>
+      <link>https://ai-cluster.github.io/blog/pres-9-post/</link>
+      <pubDate>Tue, 06 Aug 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/pres-9-post/</guid>
+      <description>Мы являемся свидетелями того, как весь мир, а с ним и Россия постепенно втягивается в гонку так называемой цифровизации, представляющий собой несомненно реальный и объективный общемировой тренд, идущий на смену предыдущей информатизации общества.</description>
+    </item>
+    
+    <item>
       <title>ОСНОВНЫЕ ЦЕЛИ ДЕЯТЕЛЬНОСТИ ММЦ</title>
       <link>https://ai-cluster.github.io/blog/pres-8-post/</link>
       <pubDate>Tue, 06 Aug 2019 11:35:34 +0600</pubDate>
@@ -515,15 +533,6 @@
       <guid>https://ai-cluster.github.io/blog/pres-8-post/</guid>
       <description>ИСХОДНЫЕ ПРЕДПОСЫЛКИ
  Реализация Программы «Цифровая экономика» невозможна без использования экономикоматематического моделирования, ориентированного на создание целого комплекса взаимоувязанных экономико-математических моделей, пронизывающих всю реальную экономику с «верхних» ее этажей до самых «нижних».</description>
-    </item>
-    
-    <item>
-      <title>о месте России в мировом тренде цифровизации</title>
-      <link>https://ai-cluster.github.io/blog/pres-9-post/</link>
-      <pubDate>Tue, 06 Aug 2019 11:35:34 +0600</pubDate>
-      
-      <guid>https://ai-cluster.github.io/blog/pres-9-post/</guid>
-      <description>Мы являемся свидетелями того, как весь мир, а с ним и Россия постепенно втягивается в гонку так называемой цифровизации, представляющий собой несомненно реальный и объективный общемировой тренд, идущий на смену предыдущей информатизации общества.</description>
     </item>
     
     <item>
