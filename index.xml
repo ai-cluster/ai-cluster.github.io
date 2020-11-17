@@ -6,10 +6,19 @@
     <description>Recent content on ai-cluster.ru</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
-    <lastBuildDate>Tue, 17 Mar 2020 14:48:03 +0600</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2020 14:48:03 +0600</lastBuildDate>
     
 	<atom:link href="https://ai-cluster.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Международный форум «Городские технологии-2020»</title>
+      <link>https://ai-cluster.github.io/article/gorteh/</link>
+      <pubDate>Fri, 30 Oct 2020 14:48:03 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/article/gorteh/</guid>
+      <description>В связи со сложившейся эпидемиологической обстановкой выставка smart-технологий для городского хозяйства была организована в интерактивном 3D-формате.</description>
+    </item>
     
     <item>
       <title>О создании кластера по разработке и внедрению технологий искусственного интеллекта</title>
