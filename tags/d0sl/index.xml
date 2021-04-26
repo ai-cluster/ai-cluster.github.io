@@ -6,7 +6,7 @@
     <description>Recent content in d0sl on ai-cluster.ru</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
-    <lastBuildDate>Tue, 25 Feb 2020 11:45:34 +0600</lastBuildDate>
+    <lastBuildDate>Thu, 25 Feb 2021 11:45:34 +0600</lastBuildDate>
     
 	<atom:link href="https://ai-cluster.github.io/tags/d0sl/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Языки семантического домена</title>
       <link>https://ai-cluster.github.io/blog/semantic-domain-specific-languages/</link>
-      <pubDate>Tue, 25 Feb 2020 11:45:34 +0600</pubDate>
+      <pubDate>Thu, 25 Feb 2021 11:45:34 +0600</pubDate>
       
       <guid>https://ai-cluster.github.io/blog/semantic-domain-specific-languages/</guid>
       <description>Аннотация: Обосновывается введение семантических доменных языков (sDSL) с точки зрения проблем, стоящих перед ИТ-индустрией.</description>

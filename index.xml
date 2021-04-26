@@ -6,10 +6,46 @@
     <description>Recent content on ai-cluster.ru</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
-    <lastBuildDate>Fri, 30 Oct 2020 14:48:03 +0600</lastBuildDate>
+    <lastBuildDate>Tue, 20 Apr 2021 11:07:10 +0600</lastBuildDate>
     
 	<atom:link href="https://ai-cluster.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Центр компетенции мирового уровня по Искусственному интеллекту.</title>
+      <link>https://ai-cluster.github.io/blog/ai-centre/</link>
+      <pubDate>Tue, 20 Apr 2021 11:07:10 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/ai-centre/</guid>
+      <description>16.04 подписали договор между СО РАН и АНО &amp;ldquo;Кластер искусственного интеллекта&amp;rdquo; О создании центра компетенции мирового уровня по Искусственному интеллекта.</description>
+    </item>
+    
+    <item>
+      <title>Центр компетенции мирового уровня по Искусственному интеллекту.</title>
+      <link>https://ai-cluster.github.io/posts/ai-centre/</link>
+      <pubDate>Tue, 20 Apr 2021 11:07:10 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/posts/ai-centre/</guid>
+      <description>16.04 подписали договор между СО РАН и АНО &amp;ldquo;Кластер искусственного интеллекта&amp;rdquo; О создании центра компетенции мирового уровня по Искусственному интеллекта.</description>
+    </item>
+    
+    <item>
+      <title>Логические методы для разработки умных контрактов</title>
+      <link>https://ai-cluster.github.io/blog/logical-methods/</link>
+      <pubDate>Fri, 26 Feb 2021 11:45:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/logical-methods/</guid>
+      <description>Аннотация: Статья содержит описание современного состояния развития формализации бизнес-процессов.</description>
+    </item>
+    
+    <item>
+      <title>Языки семантического домена</title>
+      <link>https://ai-cluster.github.io/blog/semantic-domain-specific-languages/</link>
+      <pubDate>Thu, 25 Feb 2021 11:45:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/semantic-domain-specific-languages/</guid>
+      <description>Аннотация: Обосновывается введение семантических доменных языков (sDSL) с точки зрения проблем, стоящих перед ИТ-индустрией.</description>
+    </item>
     
     <item>
       <title>Международный форум «Городские технологии-2020»</title>
@@ -45,24 +81,6 @@
       
       <guid>https://ai-cluster.github.io/article/article_konference_1/</guid>
       <description>«Новосибирский институт программных систем» (ПАО «НИПС»), входящий в Концерн «Автоматика» Госкорпорации Ростех, принял участие в конференции «Цифровизация бизнеса.</description>
-    </item>
-    
-    <item>
-      <title>Логические методы для разработки умных контрактов</title>
-      <link>https://ai-cluster.github.io/blog/logical-methods/</link>
-      <pubDate>Wed, 26 Feb 2020 11:45:34 +0600</pubDate>
-      
-      <guid>https://ai-cluster.github.io/blog/logical-methods/</guid>
-      <description>Аннотация: Статья содержит описание современного состояния развития формализации бизнес-процессов.</description>
-    </item>
-    
-    <item>
-      <title>Языки семантического домена</title>
-      <link>https://ai-cluster.github.io/blog/semantic-domain-specific-languages/</link>
-      <pubDate>Tue, 25 Feb 2020 11:45:34 +0600</pubDate>
-      
-      <guid>https://ai-cluster.github.io/blog/semantic-domain-specific-languages/</guid>
-      <description>Аннотация: Обосновывается введение семантических доменных языков (sDSL) с точки зрения проблем, стоящих перед ИТ-индустрией.</description>
     </item>
     
     <item>

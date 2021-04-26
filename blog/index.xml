@@ -12,9 +12,18 @@
     
     
     <item>
+      <title>Центр компетенции мирового уровня по Искусственному интеллекту.</title>
+      <link>https://ai-cluster.github.io/blog/ai-centre/</link>
+      <pubDate>Tue, 20 Apr 2021 11:07:10 +0600</pubDate>
+      
+      <guid>https://ai-cluster.github.io/blog/ai-centre/</guid>
+      <description>16.04 подписали договор между СО РАН и АНО &amp;ldquo;Кластер искусственного интеллекта&amp;rdquo; О создании центра компетенции мирового уровня по Искусственному интеллекта.</description>
+    </item>
+    
+    <item>
       <title>Логические методы для разработки умных контрактов</title>
       <link>https://ai-cluster.github.io/blog/logical-methods/</link>
-      <pubDate>Wed, 26 Feb 2020 11:45:34 +0600</pubDate>
+      <pubDate>Fri, 26 Feb 2021 11:45:34 +0600</pubDate>
       
       <guid>https://ai-cluster.github.io/blog/logical-methods/</guid>
       <description>Аннотация: Статья содержит описание современного состояния развития формализации бизнес-процессов.</description>
@@ -23,7 +32,7 @@
     <item>
       <title>Языки семантического домена</title>
       <link>https://ai-cluster.github.io/blog/semantic-domain-specific-languages/</link>
-      <pubDate>Tue, 25 Feb 2020 11:45:34 +0600</pubDate>
+      <pubDate>Thu, 25 Feb 2021 11:45:34 +0600</pubDate>
       
       <guid>https://ai-cluster.github.io/blog/semantic-domain-specific-languages/</guid>
       <description>Аннотация: Обосновывается введение семантических доменных языков (sDSL) с точки зрения проблем, стоящих перед ИТ-индустрией.</description>
